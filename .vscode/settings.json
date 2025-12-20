@@ -4,5 +4,6 @@
     "other": "inline",
     "comments": true,
     "strings": true
-  }
+  },
+  "editor.quickSuggestionsDelay": 100
 }
