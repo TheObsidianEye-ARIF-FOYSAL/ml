@@ -1,1 +1,1 @@
-streamlit run "d:\Matchine_Learning\CampusX\tutorial\day79_hyperparameters_of_logistic_regression\streamlit-viz-tool.py"
+streamlit run "d:\Matchine_Learning\CampusX\tutorial\day79_hyperparameters_of_logistic_regression\streamlit-visualise-tool.py"
