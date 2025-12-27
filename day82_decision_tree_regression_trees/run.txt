@@ -1,0 +1,4 @@
+streamlit run dt-viz.py
+
+
+streamlit run "d:\Matchine_Learning\CampusX\tutorial\day82_decision_tree_regression_trees\dtr-viz.py"
