@@ -76,7 +76,7 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
-
+.venv
 
 
 

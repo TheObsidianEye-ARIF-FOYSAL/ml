@@ -1,0 +1,98 @@
+================================================================================
+AI ASSIGNMENT SUBMISSION GUIDE
+================================================================================
+
+Student: Arif Foysal Bin Haider
+Roll: 2103119
+Section: B
+Course: CSE 3207 - Artificial Intelligence
+Topic: AI Project on Naive Bayes Classifier
+
+================================================================================
+SUBMISSION CHECKLIST
+================================================================================
+
+✓ Project Report (PDF) - Convert the .docx file to PDF
+✓ Source Code (Jupyter Notebook) - flower.ipynb
+✓ Dataset - Iris.csv (from Kaggle)
+
+================================================================================
+FILES TO SUBMIT
+================================================================================
+
+1. 2103119_AI_Assignment_Naive_Bayes.pdf
+   - Convert the .docx file to PDF format
+   - Location: D:\Matchine_Learning\CampusX\tutorial\z\2103119_AI_Assignment_Naive_Bayes.docx
+   
+2. flower.ipynb
+   - Complete Jupyter Notebook with all code and analysis
+   - Location: D:\Matchine_Learning\CampusX\tutorial\z\flower.ipynb
+
+3. Iris.csv (Optional - if required)
+   - Dataset used for the project
+   - Location: D:\Matchine_Learning\CampusX\tutorial\day75_classification_matrics_confusion_matrix\Iris.csv
+
+================================================================================
+HOW TO CREATE ZIP FILE
+================================================================================
+
+Step 1: Convert Word document to PDF
+   - Open: 2103119_AI_Assignment_Naive_Bayes.docx
+   - File → Save As → Choose PDF format
+   - Save as: 2103119_AI_Assignment_Naive_Bayes.pdf
+
+Step 2: Create submission folder
+   - Create a new folder named: 2103119_Assignment
+   - Copy the following files into this folder:
+     • 2103119_AI_Assignment_Naive_Bayes.pdf
+     • flower.ipynb
+     • Iris.csv (if required)
+
+Step 3: Create ZIP file
+   - Right-click on the folder: 2103119_Assignment
+   - Select: Send to → Compressed (zipped) folder
+   - Rename to: 2103119_Assignment.zip
+
+================================================================================
+PROJECT SUMMARY
+================================================================================
+
+Dataset: Iris Dataset (150 samples, 4 features, 3 classes)
+Source: Kaggle
+Algorithm: Gaussian Naive Bayes Classifier
+
+Key Results:
+  • Test Accuracy: 96.67%
+  • Cross-Validation Accuracy: 95.83%
+  • Total Misclassifications: 1 out of 30 test samples
+  • Comparison Model: Decision Tree (96.67% test, 93.33% CV)
+
+Report Contents:
+  ✓ Introduction
+  ✓ Objectives
+  ✓ Dataset Description (with statistical tables)
+  ✓ Methodology (preprocessing, implementation)
+  ✓ Results (metrics, confusion matrix, comparison)
+  ✓ Analysis & Discussion
+  ✓ Conclusion
+  ✓ References
+  ✓ Appendix
+
+================================================================================
+SUBMISSION DEADLINE
+================================================================================
+
+Due Date: 30 November 2025
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+If you have any questions or need clarification, please contact:
+Student: Arif Foysal Bin Haider
+Roll: 2103119
+Section: B
+
+================================================================================
+GOOD LUCK!
+================================================================================
